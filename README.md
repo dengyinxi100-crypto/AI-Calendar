@@ -3,16 +3,11 @@
 基于 Electron + React + TypeScript 的本地优先 AI 日历助手，支持多模型 AI 对话、日志分析、日程总结与智能工作流。
 
 
-作者邮箱：
+作者邮箱：dengyinxi100@gmail.com
 
-dengyinxi100@gmail.com
+全量文件已上传百度网盘:https://pan.baidu.com/s/5CE2j3nq6-8q5tcdwlyEZ5Q 
 
-全量文件已上传百度网盘:
-
-通过网盘分享的知识：AI calendar链接: https://pan.baidu.com/s/5CE2j3nq6-8q5tcdwlyEZ5Q --来自百度网盘超级会员v2的分享
-
-
-若需要更多请联系作者后获取
+若需要更多获取方式或全量文件请联系作者后获取
 
 ---
 

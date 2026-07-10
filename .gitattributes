@@ -1,0 +1,8 @@
+release_v6/*.exe filter=lfs diff=lfs merge=lfs -text
+dist/**/* filter=lfs diff=lfs merge=lfs -text
+open-design-main/.tmp/tools-dev/default/web/next/dev/cache/webpack/client-development/1.pack.gz filter=lfs diff=lfs merge=lfs -text
+release_v6/win-unpacked/AI[[:space:]]智能日历.exe filter=lfs diff=lfs merge=lfs -text
+appdata/electron/Cache/dad050ea25074abdde4a9e2d79c2fcfea69197a03eb8bf69f2499dfd520fdcbf/electron-v43.0.0-win32-x64.zip filter=lfs diff=lfs merge=lfs -text
+release_v6/AI[[:space:]]智能日历[[:space:]]1.0.0.exe filter=lfs diff=lfs merge=lfs -text
+open-design-main/.tmp/tools-dev/default/web/next/dev/static/chunks/_app-pages-browser_src_components_EntryView_tsx-_app-pages-browser_src_components_SettingsDia-16f400.js filter=lfs diff=lfs merge=lfs -text
+open-design-main/.tmp/tools-dev/default/web/next/dev/cache/webpack/server-development/0.pack.gz filter=lfs diff=lfs merge=lfs -text

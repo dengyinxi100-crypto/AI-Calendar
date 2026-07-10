@@ -23,3 +23,14 @@ pnpm-lock.yaml
 AnimatedCardStack-main/
 appdata/
 .vscode/
+
+# Common local/cache files
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.venv/
+venv/
+node_modules/
+.idea/
+.vscode/

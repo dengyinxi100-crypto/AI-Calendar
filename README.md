@@ -5,7 +5,7 @@
 
 作者邮箱：dengyinxi100@gmail.com
 
-全量文件已上传百度网盘:https://pan.baidu.com/s/5CE2j3nq6-8q5tcdwlyEZ5Q 
+全量文件已上传百度网盘: https://pan.baidu.com/s/5CE2j3nq6-8q5tcdwlyEZ5Q 
 
 若需要更多获取方式或全量文件请联系作者后获取
 

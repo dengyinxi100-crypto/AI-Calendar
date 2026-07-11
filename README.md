@@ -1,4 +1,4 @@
-“# AI 智能日历
+# AI 智能日历
 
 基于 Electron + React + TypeScript 的本地优先 AI 日历助手，支持多模型 AI 对话、日志分析、日程总结与智能工作流。
 
